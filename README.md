@@ -1,7 +1,6 @@
 # Taller POO - Clase 3
 ## Integrantes
-- Nombre 1
-- Nombre 2
+- Camila Passini
 
 ## Descripción
 Resolución de ejercicios de POO con Git
